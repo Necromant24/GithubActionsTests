@@ -18,10 +18,23 @@ namespace GHActTest2.Controllers
             _logger = logger;
         }
 
+        public HomeController()
+        {
+           
+        }
+
         public IActionResult Index()
         {
-            return View();
+            //int a = 5;
+            //int b = 5 / (5 - a);
+
+
+
+            ViewData["Message"] = "Hello1!";
+            return View("Index");
         }
+
+
 
         public IActionResult Privacy()
         {
