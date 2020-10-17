@@ -31,7 +31,7 @@ namespace TestsTest
             ViewResult result = controller.Index() as ViewResult;
 
             // Assert
-            Assert.AreEqual("Hello!", result?.ViewData["Message"]);
+            Assert.AreEqual("Hello1!", result?.ViewData["Message"]);
         }
 
 
