@@ -13,6 +13,8 @@ namespace GHActTest2
     {
         public static void Main(string[] args)
         {
+            
+
             CreateHostBuilder(args).Build().Run();
         }
 
@@ -20,7 +22,7 @@ namespace GHActTest2
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
-                    webBuilder.UseStartup<Startu>();
+                    webBuilder.UseStartup<Startup>();
                 });
     }
 }
