@@ -1,0 +1,7 @@
+C:\Users\асеr\source\repos\GHActTest2\GHActTest2\obj\Debug\netcoreapp3.1\GHActTest2.csprojAssemblyReference.cache
+C:\Users\асеr\source\repos\GHActTest2\GHActTest2\obj\Debug\netcoreapp3.1\GHActTest2.AssemblyInfoInputs.cache
+C:\Users\асеr\source\repos\GHActTest2\GHActTest2\obj\Debug\netcoreapp3.1\GHActTest2.AssemblyInfo.cs
+C:\Users\асеr\source\repos\GHActTest2\GHActTest2\obj\Debug\netcoreapp3.1\GHActTest2.csproj.CoreCompileInputs.cache
+C:\Users\асеr\source\repos\GHActTest2\GHActTest2\obj\Debug\netcoreapp3.1\GHActTest2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\асеr\source\repos\GHActTest2\GHActTest2\obj\Debug\netcoreapp3.1\GHActTest2.RazorAssemblyInfo.cache
+C:\Users\асеr\source\repos\GHActTest2\GHActTest2\obj\Debug\netcoreapp3.1\GHActTest2.RazorAssemblyInfo.cs
